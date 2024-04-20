@@ -8,6 +8,8 @@ Install Flutter: https://docs.flutter.dev/get-started/install
 Then after cloning this repo, cd into its folder and run `flutter doctor`
 Address any issues there, then you can use `flutter run` to see the running app.
 
+If you are developing with VSCode, install the Flutter extension to accelerate debugging issues. 
+
 This project is a starting point for a Flutter application that follows the
 [simple app state management
 tutorial](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple).
