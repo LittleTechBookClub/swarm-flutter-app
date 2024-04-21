@@ -1,0 +1,1 @@
+# In the models folder we store custom classes of data objects used throughout. For instance a hive or user 

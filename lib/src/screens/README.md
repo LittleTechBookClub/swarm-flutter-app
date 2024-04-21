@@ -1,0 +1,1 @@
+# In this folder we store the views for the app like login/logout screens
