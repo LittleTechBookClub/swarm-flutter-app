@@ -19,9 +19,9 @@ class SUSIScreen extends StatelessWidget {
             ElevatedButton(child: const Text("Login"), onPressed: () {}),
             ElevatedButton(child: const Text("Register"), onPressed: () {}),
             ElevatedButton(
-                child: Wrap(children: <Widget>[
+                child: const Wrap(children: <Widget>[
                   Icon(Icons.logo_dev, color: Colors.red, size: 24.0),
-                  const Text("Login with Google")
+                  Text("Login with Google")
                 ]),
                 onPressed: () {}),
           ]),
